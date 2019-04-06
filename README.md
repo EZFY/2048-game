@@ -1,2 +1,1 @@
-
-This is a 2048 web-based game written by Canvas in Javascript and CSS3.
+这是一个完全基于PC端的2048小游戏，使用了javascript，CSS，HTML来编写，这个项目比较适合刚学习前端的人看，代码的注释详细，代码风格较规范
