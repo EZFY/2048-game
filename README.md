@@ -9,3 +9,7 @@
 ##展示图：
 
 ![image](https://github.com/EZFY/2048-game/blob/master/image/A585EA58-3C08-4777-8B87-752C2E8DCA03.png)
+
+![image](https://github.com/EZFY/2048-game/blob/master/image/9E4FB751BD59E890471221351E81F734.png)
+
+![image](https://github.com/EZFY/2048-game/blob/master/image/D4154D097950C67ED7E3F39A5906D855.png)
