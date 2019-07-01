@@ -8,4 +8,4 @@
 
 ##展示图：
 
-![image](https://github.com/EZFY/2048-game/image/A585EA58-3C08-4777-8B87-752C2E8DCA03.png)
+![image](https://github.com/EZFY/2048-game/blob/master/image/A585EA58-3C08-4777-8B87-752C2E8DCA03.png)
